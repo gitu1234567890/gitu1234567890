@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Gitu
 - 👀 I’m interested in keeping everyone's online experience secure
-- 🌱 I’m currently learning CompTIA's Security+ exam material
-- 💞️ I’m looking to collaborate on studying cybersecurity
+- 📚 I’m currently learning CompTIA's Security+ exam material
 - 📫 How to reach me - www.linkedin.com/in/gitua
 - ⚡ Fun fact: I like green
 
